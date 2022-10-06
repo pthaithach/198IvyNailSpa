@@ -1,0 +1,32 @@
+{
+    "info": {
+        "store"     : "Ivy Nail Spa",
+        "slug"      : "Ivy-nail-spa",
+        "phone"     : "(781) 740-0889", 
+        "email"     : "ivynailspaco@gmail.com",
+        "address"   : "86 North St Hingham, Massachusetts 02043",
+        "time_1"    : "[Mon - Sat] 09:30 AM - 07:00 PM",
+        "time_2"    : "[Sun] 10:00 AM - 05:00 PM"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/ivynailspa.MA",
+        "instagram" :   "https://www.instagram.com/ivynailspa.ma",
+        "google"    :   "https://goo.gl/maps/47u7TD4AYHGjyT4JA",
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDc5NTV8aXZ5bmFpbDg2fE1BXzA4MDE2fGQwN2U1MjI2MTQyYzQ4ODZkNTcwY2JhYTFmMGVjNTg3",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2953.6730783718795!2d-70.88984534857103!3d42.2427968503886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e361005561d5dd%3A0x30d6a5cfe8ea1905!2sIVY%20Nail%20Spa!5e0!3m2!1sen!2s!4v1664952578821!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#d16c65",
+        "primary_light"         :   "#cbdfd2",
+        "primary_hover"         :   "#b25b54",
+        "secondary"             :   "#ffd86c",
+        "secondary_hover"       :   "#88BC3A",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":    "on"
+}
